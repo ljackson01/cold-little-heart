@@ -1,0 +1,166 @@
+body{
+  background-color: #dbd5e0;
+  color: #280363;
+
+}
+
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 55px;
+padding-bottom: 100px;
+margin:15% 25% 25% 25%;
+opacity: 100%
+}
+
+.musician{
+  font-size: 25px;
+  color:#f4b942;
+}
+
+p{
+  font-size:25px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro{
+  margin-left: 8%;
+  margin-top: 20%;
+  margin-bottom: 15%;
+  line-height: 150px;
+  background-image: url("photos/img18.jpg");
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: linear-gradient(#827f7f #d8d8d8)
+
+}
+
+.verse1{
+  color: #f4b942;
+  line-height: 75px;
+  margin-left: 17%;
+  margin-bottom:15%;
+  background-image: url("photos/img5.jpg");
+  background-size: 95%;
+  background-repeat: no-repeat;
+  background-position: left;
+
+}
+
+.chorus {
+  color:#d89204;
+  margin-left:15%;
+  margin-bottom: 15%;
+  line-height: 100px;
+
+}
+
+.verse2{
+  color: #f4b942;
+  line-height: 75px;
+  padding-left: 37%;
+  margin-bottom: 10%;
+  background-image: url("photos/img8.jpg"),url("photos/img7.jpg");
+  background-size: 65%,50%;
+  background-repeat: no-repeat;
+  background-position:0% top,100% 70%;
+
+}
+
+.chorus2{
+    color:#d89204;
+    margin-left: 45%;
+    margin-bottom: 10%;
+    line-height: 100px;
+}
+
+.chorus-extra-special{
+  margin-left: 45%;
+  line-height: 150px;
+}
+
+.oh-space{
+  margin-right: 25%;
+}
+
+.tears{
+  font-size:35px;
+}
+
+.bleeding{
+  letter-spacing: 15px;
+}
+
+.cold-little{
+  font-size: 15px;
+}
+
+.bigger{
+  font-size: 200%;
+}
+
+.even-bigger{
+  font-size: 400%;
+}
+
+.small{
+  font-size: 90%;
+}
+
+.smaller{
+  font-size: 75%;
+}
+
+.even-smaller{
+  font-size: 50%;
+}
+
+.bleeding-shadow{
+  text-shadow: 2px 2px #280363;
+}
+
+.word-spacing{
+  word-spacing: 25px;
+}
+
+.color-change{
+  color:#280363;
+}
+
+img{
+  width:100%;
+  height:auto;
+
+}
+
+.yellow-sweater{
+  opacity:.75;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.curly{
+  opacity: .90;
+  position:absolute;
+  width:75%;
+  height:auto;
+}
+
+.blue-shirt{
+  width: 25%;
+  height: 300%;
+  margin-left:50%;
+  position: absolute;
+  opacity:75%;
+}
+
+.light-skin{
+  width:25%;
+  height:auto;
+  left: -5px;
+  position: absolute;
+  padding-right:  45%
+}
